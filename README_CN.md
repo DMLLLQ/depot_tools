@@ -1,6 +1,6 @@
 # depot_tools
 
-这是Dimole(https://dmlgzs.ga/)创建的<!--，以让国人免番羽土啬来下载depot_tools最新版。--><br>
+这是[Dimole](https://dmlgzs.ga/)创建的<!--，以让国人免番羽土啬来下载depot_tools最新版。--><br>
 以下使用说明为机器翻译结果，如有不准请谅解。（其实我校正过的）<br>
 
 ＃depot_tools
